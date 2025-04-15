@@ -2,6 +2,9 @@
 
 A terminal-based system monitoring tool built with Rust, Ratatui, and Tokio. This application displays system metrics (CPU, memory) and enables Tokio runtime instrumentation for async application monitoring.
 
+![CPU Monitor Screenshot](assets/Screenshot%20(7).png)
+![Memory Monitor Screenshot](assets/Screenshot%20(8).png)
+
 ## Features
 
 - Real-time system resource monitoring (CPU, memory)
@@ -17,7 +20,7 @@ A terminal-based system monitoring tool built with Rust, Ratatui, and Tokio. Thi
 Clone the repository and build the project:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Gyan-max/TUI_monitoring_system.git
 cd tui_monitor
 cargo build --release
 ```
