@@ -17,7 +17,7 @@ A terminal-based system monitoring tool built with Rust, Ratatui, and Tokio. Thi
 Clone the repository and build the project:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Gyan-max/TUI_monitoring_system.git
 cd tui_monitor
 cargo build --release
 ```
